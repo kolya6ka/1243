@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to kaktusrold","Смотрит KaktusRold"];
+const statusMessages = ["Пьёт воду","Следит за KaktusRold","Ждёт новых игроков на KaktusRold","Бухает"];
 
 
 let currentIndex = 0;
